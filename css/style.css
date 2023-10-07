@@ -31,13 +31,18 @@ margin:auto auto 15px auto;
 }
 
 .carousel-caption{
-    
-margin-right: 0%;
+    margin-right: 0%;
     width: 80%;
     height: 70%;
     color:white;
     text-align: right;
 }
+.carousel-caption p{
+    font-size:15px;
+}
+
+
+
 
 .navbar-nav{
     width: 57%;
