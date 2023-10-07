@@ -4,6 +4,15 @@
     font-family: sans-serif;
   }
 
+
+  #colortext1{
+    color:#2CA546
+  }
+
+  #imgcodo{
+    margin-left:50px;
+}
+
   #cardmargin{
     margin-bottom: 15px;
     width: 80%;
